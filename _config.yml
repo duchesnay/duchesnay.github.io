@@ -83,8 +83,8 @@ author:
   name             : "Edouard Duchesnay"
   avatar           : "edouard_20230831-1.jpg"
   bio              : "Research Director in Machine Learning in Neuroimaging"
-  location         : "NeuroSpin, CEA, Université Paris-Saclay, France"
-  employer         : "CEA"
+  location         : "NeuroSpin, CEA, Univ. Paris-Saclay, FR"
+  employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Edouard+Duchesnay"
   googlescholar    : "https://scholar.google.fr/citations?user=mG6V3q4AAAAJ&hl=fr"
   email            : "edouard.duchesnay.cea.fr"
