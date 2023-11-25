@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Edouard Duchesnay - Machine Learning, Neuroimaging"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,159 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Research director in machine learning applied to neuroimaging at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en), France.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+As a leader of the team “Signatures of brain disorders” at NeuroSpin, CEA, Université Paris-Saclay, France, I supervise the design of machine learning and statistical models to uncover neural signatures predictive of clinical trajectories in psychiatric disorders. To unlock the access to data required by learning algorithms, I oversee the data management, calculation, and regulation (GDPR) of large-scale national and European initiatives.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Keywords
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimaging -- Scientific Computing  -- Datamanagement
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Links
 
-**Markdown generator**
+- [ORCID](https://orcid.org/0000-0002-4073-3490)
+- [Web of Science](https://www.webofscience.com/wos/author/record/2030378), [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate), [Zotero](https://www.zotero.org/edouard.duchesnay)
+- [Course: Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml/)
+- [Curriculum Vitae in pdf](https://raw.github.com/duchesnay/data/master/pdf/cv_educhesnay.pdf)
+- [Habilitation thesis in pdf](https://raw.github.com/duchesnay/data/master/pdf/hdr_educhesnay.pdf)
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## Experience
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- *2021-now*: **Research Director** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Université Paris-Saclay, France.
+- *2008-2021*: **Research Scientist** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Université Paris-Saclay, France.
+- *2005-2008*: **R&D Engineer** in the [INSERM Research Unit -"Neuroimaging and Psychiatry"](http://www.inserm-u1000.u-psud.fr), Orsay, France.
+- *2003-2004*: **Postdoctoral** position at CEA, Orsay, France.
+- *2002*: **Software Engineer** at MBD.A (Matra BAe Dynamics) Velizy, contract for ASTEK company, France.
+- *2001-2002*: **Teaching and Research Assistant** at [Rennes 1 University](https://english.univ-rennes1.fr), France.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## Education
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- *2020*: **Habilitation** (for full professorship) in machine learning applied to neuroimaging ([pdf](https://raw.github.com/duchesnay/data/master/pdf/hdr_educhesnay.pdf)). [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
+- *1999-2001*: **Ph.D.** in Image Processing at [LTSI](http://www.ltsi.univ-rennes1.fr/?q=en/node/269) (laboratory of signal and image processing). [Rennes 1 University](https://english.univ-rennes1.fr), France.
+- *1997-1998*: **Master’s degree** in [Signal/Image Processing](https://formations.univ-rennes1.fr/formation/master-electronique-energie-electrique-automatique/master-mention-electronique-energie-0?studentstatus=113). [Rennes 1 University](https://english.univ-rennes1.fr), France.
+- *1994-1997*: **Master’s degree** in Software Engineering. École Pour l’Informatique et les Techniques Avancées ([EPITA](http://www.epita.fr/international/)), Kremlin Bicêtre, France.
+
+## Bio (IEEE style)
+
+Edouard Duchesnay is a research director in data science at NeuroSpin, CEA, Paris-Saclay University, France. 
+Since 2003, he has been designing machine learning models to discover brain imaging signatures of mental disorders.
+He explored dimension reduction and regularization strategies to overcome the “curse of dimensionality” caused by many neuroimaging measurements. 
+In 2019, he obtained a chair in Artificial Intelligence to develop transfer learning algorithms to bridge the gap between big (heterogeneous) and small (homogeneous) datasets.
+He received his Ph.D. in 2001 and M.S. in 1998 in signal and image processing from Rennes 1 University (France). In 1997, he received his M.S. degree in software engineering from École Pour l’Informatique et les Techniques Avancées (France).
+
+## Responsibilities & Grants 
+
+ -   *2024-2029*:  **Leader of data analysis, computing and management WP** (Work Package) for [IHU-ICE](https://www.aphp.fr/contenu/linstitut-robert-debre-du-cerveau-de-lenfant-un-institut-hospitalo-universitaire-ihu-pour): Institut Hospitalo-Universitaire-Institut du Cerveau de l'Enfant Robert Debré. Leaders: R Delorme, G Dehaene, T Bourgeron.
+   
+ -   *2023-2028*: **Leader of data analysis, large-scale computing and management** for (PEPR Santé Mentale) [PROPSY](https://www.cnrs.fr/en/pepr/pepr-exploratoire-propsy-pathologies-psychiatriques): PROgram-project in Precision pSYchiatry. Leader: M Leboyer. Team budget: 4.6M€.
+
+ -   *2022-2026*: **Leader of data analysis WP** for RHU FAME: Improving FAMily members’ Experience in the ICU. Leader: E Azoulay. Team budget: 547k€.
+
+ -   *2020-2024*:  **[Artificial Intelligence (AI) Chair](https://anr.fr/Projet-ANR-19-CHIA-0010)**. Big2small, Transfer Learning from Big Data to Small Data: Leveraging Psychiatric Neuroimaging Biomarkers Discovery. Budget: 543k€.
+
+ -   *2019-2026*:  **Leader of data analysis WP** for [RHU-PsyCARE](http://psy-care.fr). Preventing psychosis through personalized care. PI: MO Krebs. Team budget: 715k€.
+ 
+-   *2018-2023*: **Leader of data analysis, computing and management WP** for H2020 horizon europe [R-LiNK](https://rlink.eu.com/). Optimizing response to Li treatment through personalized evaluation of individuals with bipolar I disorder: the R-LiNK initiative. Team budget: 800k€.
+
+-   2014-2018: BIP-Li7 (ANR-14-CE15-0003). Therapeutic Lithium response
+    in Bipolar Disorders and brain Lithium-7 NMR Spectroscopy Imaging at
+    7 Tesla. PI: F Bellivier, WP leader:F Boumezbeur. Team budget:
+    280k€.
+
+-   *2011-2015*: **Co-leader of data analysis WP** for EU FP6-ERA-NET-NEURON MESCOG: Mechanisms of
+    Small Vessel-Related Brain Damage and Cognitive Impairment:
+    Integrating Imaging Findings from Genetic and Sporadic Disease. PI: M Dichgans. Team budget: 195k€.
+
+-   *2012-2016*: **Leader of image analysis WP** for BRAINOMICS (ANR-10-BINF-04). Methodological and software solutions for the integration of neuroimaging and genomic data. PI: V Frouin. Team budget: 800k€.
+
+-   *2010-2013*:  **Leader** (with A Roche) of Karamétria (ANR-09-BLAN-0332): A unified framework for
+    feature-based morphometry of the brain. Team budget: 200k€.
+
+-   *2007-2010*: **Leader of data analysis WP** for AGIR (ANR-07-NEUR-0001): AGIR -- Autism: Genetic and
+    Imaging Research. PI: M. Zilbovicius. Team budget: 150k€.
+
+-   *2007-Present*: Contribution to the CATI platform, a
+    national platform created by the French Alzheimer plan in 2011 to
+    support multicenter neuroimaging studies (9M€ grant). Leader: JF Mangin.
+
+
+## Publications & Scientific Impact
+
+### Bibliometry
+
+- Publications: 94(a), 131(b)
+- Total Number of Citations: 38,291(a), 86,070(b)
+- H-Index: 26(a), 34(b)
+
+(a) [Web of Science](https://www.webofscience.com/wos/author/record/2030378), (b) [Google scholar](https://scholar.google.fr/citations?user=mG6V3q4AAAAJ&hl=fr)
+
+### Publications
+
+- [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate)
+- [Zotero](https://www.zotero.org/edouard.duchesnay)
+
+
+### Selection of Publications
+
+- Iftimovici, A., Bourgin, J., Houenou, J., Gay, O., Grigis, A., Victor, J., Chaumette, B., Krebs, M.-O., **Duchesnay, E.**, ICAAR-plus Study Group., 2023. Asynchronous neural maturation predicts transition to psychosis. Psychiatry Clin Neurosci [LINK](https://pubmed.ncbi.nlm.nih.gov/37904327/).
+- Dufumier, B., Barbano, C.A., Louiset, R., **Duchesnay, E.**, Gori, P., 2023. Rethinking Positive Sampling for Contrastive Learning with Kernel. Presented at the ICLR, Hawaii. [LINK](https://doi.org/10.48550/arXiv.2206.01646)
+- Dufumier, B., Grigis, A., Victor, J., Ambroise, C., Frouin, V., **Duchesnay, E.**, 2022. OpenBHB: a Large-Scale Multi-Site Brain MRI Data-set for Age Prediction and Debiasing. NeuroImage. [LINK](https://doi.org/10.1016/j.neuroimage.2022.119637)
+- Louiset, R., Gori, P., Dufumier, B., Houenou, J., Grigis, A., **Duchesnay, E.**, 2021. UCSL : A Machine Learning Expectation-Maximization framework for Unsupervised Clustering driven by Supervised Learning, in: ECML/PKDD [LINK](https://arxiv.org/abs/2107.01988).
+- de Pierrefeu, A., Löfstedt, T., Laidi, C., Hadj‐Selem, F., Bourgin, J., Hajek, T., Spaniel, F., Kolenic, M., Ciuciu, P., Hamdani, N., Leboyer, M., Fovet, T., Jardri, R., Houenou, J., **Duchesnay, E.**, 2018. Identifying a neuroanatomical signature of schizophrenia, reproducible across sites and stages, using machine learning with structured sparsity. Acta Psychiatrica Scandinavica [(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883283).
+- de Pierrefeu, A., Fovet, T., Hadj-Selem, F., Löfstedt, T., Ciuciu, P., Lefebvre, S., Thomas, P., Lopes, R., Jardri, R., **Duchesnay, E.**, 2018. Prediction of activation patterns preceding hallucinations in patients with schizophrenia using machine learning with structured sparsity. Hum. Brain Mapp. 39, 1777–1788. [(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883271).
+- Hadj-Selem, F., Löfstedt, T., Dohmatob, E., Frouin, V., Dubois, M., Guillemot, V., **Duchesnay, E.**, 2018. Continuation of Nesterov’s Smoothing for Regression With Structured Sparsity in High-Dimensional Neuroimaging. IEEE Transactions on Medical Imaging 37, 2403–2413. [(PDF)](https://arxiv.org/abs/1605.09658) (April 2018) and [supplementary](https://hal-cea.archives-ouvertes.fr/cea-01324021v4/document).
+- de Pierrefeu, A., Lofstedt, T., Hadj-Selem, F., Dubois, M., Jardri, R., Fovet, T., Ciuciu, P., Frouin, V., Duchesnay, E., 2018b. Structured Sparse Principal Components Analysis With the TV-Elastic Net Penalty. IEEE Transactions on Medical Imaging 37, 396–407.  [(PDF)](https://hal-cea.archives-ouvertes.fr/cea-01883278).
+- F. Pedregosa, G. Varoquaux, A. Gramfort, V. Michel, B. Thirion, O. Grisel, M. Blondel, P. Prettenhofer, R. Weiss, V. Dubourg, J. Vanderplas, A. Passos, D. Cournapeau, M. Brucher, M. Perrot, and **E. Duchesnay**. “Scikit-learn: Machine Learning in Python”. In: Journal of Machine Learning Research 12.Oct (Jan. 2012).
+
+## Teaching
+
+I wrote a course on [Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml), [github: Jupyter notebooks and python sources](https://github.com/duchesnay/pystatsml) and [pdf](https://raw.github.com/duchesnay/data/master/pdf/StatisticsMachineLearningPython.pdf).
+
+I deliver lectures on machine learning/statistics in:
+
+- *2019-now*: Introduction to AI: main algorithms of machine learning in Master 2 [radiophysique médicale](https://www.universite-paris-saclay.fr/formation/master/physique/m2-radiophysique-medicale) Paris-Saclay University.
+- *2018-now*: Machine learning in Master 2 Modelisations Statistiques Economique & Financières [MoSeF](https://www.pantheonsorbonne.fr/diplomes/master-mosef), Panthéon Sorbonne Paris 1 University, head: Rania Hentati Kaffel.
+- *2015-now*: Machine learning in Master 2 Innovation, marché et science des données [IMSD](https://www.universite-paris-saclay.fr/fr/formation/master/m2-innovation-marche-et-science-des-donnees-imsd-apprentissage#presentation-m2), Paris-Saclay University, head: Ekaterina Kalugina.
+- *2017-2020*: Biostatistics 3rd year of CentralSupelec, Paris-Saclay University, head: Arthur Tenenhaus.
+- *2019-2020*: Machine learning in 2nd & 3rd years of EPITA, Kremlin-Bicètre, [Image processing option](https://www.epita.fr/nos-formations/diplome-ingenieur/cycle-ingenieur/les-majeures/#majeure-IMAGE), head: Elodie Puybareau and Guillaume Tochon.
+- *2016-2017*: Data analysis in Master 1 Mathématiques et applications, option "Ingénierie mathématique pour
+  les sciences du vivant“, Paris Descartes University, head: Etienne Birmele.
+
+
+## Supervision experience
+
+### Ph.D.s
+
+- *2022-now*: Thibault Dupont together with Elie Azoulay.
+- *2022-now*: Sara Petiton together with Antoine Grigis.
+- *2022-now*: Pierre Auriau together with Pietro Gori, Antoine Grigis and Jean-François Mangin.
+- *2020-now*: Robin Louiset together with Pietro Gori and Antoine Grigis.
+- *2019-2022*: Benoit Dufumier, together with Arthur Tenenhaus, Pietro Gori and Antoine Grigis.
+- *2019-2021*: Anton Iftimovici, together with Marie-Odile Krebs.
+- *2016-2019*: Amicie de Pierrefeu, together with Philippe Ciuciu.
+- *2008-2012*: Edith Lefloch is now a research scientist at CEA, CNRGH Evry, France.
+- *2009-2011*: Cecilia Damon together with JB Poline.
+
+
+### Post-docs
+
+- *2017-2019*: Pauline Favre, Post-doc, together with JF Mangin and J. Houenou.
+- *2016*: Pietro Gori, Post-doc together with JF Mangin and J. Houenou. P. Gori is now Assistant Professor at Télécom ParisTech, Paris, France.
+- *2013-2015* Fouad Hadj Selem, Post-doc, F. Hadj Selem is now research scientist at the Energy Transition Institute: VeDeCoM, France.
+- *2013-2015*: Tommy Lofstedt, Post-doc. T. Lofstedt is now associate professor at Umea University, Sweden.
+
+### Engineers
+
+-   *2022-now*: Bérangère Dollé together with Antoine Grigis.
+-   *2021-now*: Loic Dorval together with Antoine Grigis.
+-   *2019-2022*: Julie Victor together with Antoine Grigis.
+-   *2013-2014*: Mathieu Dubois, Post-doc.
+-   *2014*: Clémence Pinaud, Engineer trainee.
+-   *2013-2014*: Jinpeng Li, Research Engineer.
+
+## Patent
+
+[PCT/FR2010/050431](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2010103248):
+Inventors: **Duchesnay, Edouard**; Paillere, Marie-Laure; Cachia,
+Arnaud; Martinot, Jean-Luc; Artiges, Eric. ”Method for Developing an Information Prediction Device, Use Thereof, and Corresponding Storage Medium and Apparatus“.
