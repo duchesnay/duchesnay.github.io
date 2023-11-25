@@ -17,14 +17,6 @@ As a leader of the team “Signatures of brain disorders” at NeuroSpin, CEA, U
 
 Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimaging -- Scientific Computing  -- Datamanagement
 
-## Links
-
-- [ORCID](https://orcid.org/0000-0002-4073-3490)
-- [Web of Science](https://www.webofscience.com/wos/author/record/2030378), [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate), [Zotero](https://www.zotero.org/edouard.duchesnay)
-- [Course: Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml/)
-- [Curriculum Vitae in pdf](https://raw.github.com/duchesnay/data/master/pdf/cv_educhesnay.pdf)
-- [Habilitation thesis in pdf](https://raw.github.com/duchesnay/data/master/pdf/hdr_educhesnay.pdf)
-
 ## Experience
 
 - *2021-now*: **Research Director** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Université Paris-Saclay, France.
