@@ -39,7 +39,7 @@ Edouard Duchesnay is a research director in data science at NeuroSpin, CEA, Pari
 Since 2003, he has been designing machine learning models to discover brain imaging signatures of mental disorders.
 He explored dimension reduction and regularization strategies to overcome the “curse of dimensionality” caused by many neuroimaging measurements. 
 In 2019, he obtained a chair in Artificial Intelligence to develop transfer learning algorithms to bridge the gap between big (heterogeneous) and small (homogeneous) datasets.
-He received his Ph.D. in 2001 and M.S. in 1998 in signal and image processing from Rennes 1 University (France). In 1997, he received his M.S. degree in software engineering from École Pour l’Informatique et les Techniques Avancées (France).
+He received his Ph.D. in signal and image processing in 2001 and M.S. in 1998 from Rennes 1 University (France). In 1997, he obtained his M.S. degree in software engineering from École Pour l’Informatique et les Techniques Avancées (France).
 
 ## Responsibilities & Grants 
 
@@ -53,7 +53,7 @@ He received his Ph.D. in 2001 and M.S. in 1998 in signal and image processing fr
 
  -   *2019-2026*:  **Leader of data analysis WP** for [RHU-PsyCARE](http://psy-care.fr). Preventing psychosis through personalized care. PI: MO Krebs. Team budget: 715k€.
  
--   *2018-2023*: **Leader of data analysis, computing and management WP** for H2020 horizon europe [R-LiNK](https://rlink.eu.com/). Optimizing response to Li treatment through personalized evaluation of individuals with bipolar I disorder: the R-LiNK initiative. Team budget: 800k€.
+-   *2018-2023*: **Leader of data analysis, computing and management WP** for H2020 horizon europe [R-LiNK](https://rlink.eu.com/). Optimizing response to Li treatment through personalized evaluation of individuals with bipolar I disorder. Leader: F Bellivier.  Team budget: 800k€.
 
 -   2014-2018: BIP-Li7 (ANR-14-CE15-0003). Therapeutic Lithium response
     in Bipolar Disorders and brain Lithium-7 NMR Spectroscopy Imaging at
