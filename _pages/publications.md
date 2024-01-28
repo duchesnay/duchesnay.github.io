@@ -5,16 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## Journals
 
 - C. Poiret, A. Bouyeure, S. Patil, C. Boniteau, **E. Duchesnay**, A. Grigis, F. Lemaitre, and M. Noulhiane (2024) "Attention-gated 3D CapsNet for robust hippocampal segmentation", J Med Imaging (Bellingham)
