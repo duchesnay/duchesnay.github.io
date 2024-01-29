@@ -84,7 +84,7 @@ author:
   avatar           : "edouard_20230831-1.jpg"
   bio              : "Research Director in Machine Learning in Neuroimaging"
   location         : "https://maps.app.goo.gl/wfu9qjoMTrD42aMX7"
-  employer         : "http://www.cea.fr/english"
+  employer         : "<a href="http://www.cea.fr/english/">CEA</a> "
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Edouard+Duchesnay"
   googlescholar    : "https://scholar.google.fr/citations?user=mG6V3q4AAAAJ&hl=fr"
   email            : "edouard.duchesnay.cea.fr"
