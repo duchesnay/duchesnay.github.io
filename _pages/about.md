@@ -41,40 +41,33 @@ He explored dimension reduction and regularization strategies to overcome the �
 In 2019, he obtained a chair in Artificial Intelligence to develop transfer learning algorithms to bridge the gap between big (heterogeneous) and small (homogeneous) datasets.
 He received his Ph.D. in signal and image processing in 2001 and M.S. in 1998 from Rennes 1 University (France). In 1997, he obtained his M.S. degree in software engineering from École Pour l’Informatique et les Techniques Avancées (France).
 
-## Responsibilities & Grants 
+## Projects
 
- -   *2024-2029*:  **Leader of data analysis, computing and management WP** (Work Package) for [IHU-ICE](https://www.aphp.fr/contenu/linstitut-robert-debre-du-cerveau-de-lenfant-un-institut-hospitalo-universitaire-ihu-pour): Institut Hospitalo-Universitaire-Institut du Cerveau de l'Enfant Robert Debré. Leaders: R Delorme, G Dehaene, T Bourgeron.
+ -   *2024-2029*:  **Work Package (WP) Leader of data analysis, computing and data management** for [IHU-ICE](https://www.aphp.fr/contenu/linstitut-robert-debre-du-cerveau-de-lenfant-un-institut-hospitalo-universitaire-ihu-pour): Institut Hospitalo-Universitaire-Institut du Cerveau de l'Enfant Robert Debré. Leaders: R Delorme, G Dehaene, T Bourgeron.
    
- -   *2023-2028*: **Leader of data analysis, large-scale computing and management** for (PEPR Santé Mentale) [PROPSY](https://www.cnrs.fr/en/pepr/pepr-exploratoire-propsy-pathologies-psychiatriques): PROgram-project in Precision pSYchiatry. Leader: M Leboyer. Team budget: 4.6M€.
+ -   *2023-2028*: **WP Leader of data analysis, large-scale computing and management** for (PEPR Santé Mentale) [PROPSY](https://www.cnrs.fr/en/pepr/pepr-exploratoire-propsy-pathologies-psychiatriques): PROgram-project in Precision pSYchiatry. Leader: M Leboyer. Team budget: 4.6M€.
 
- -   *2022-2026*: **Leader of data analysis WP** for RHU FAME: Improving FAMily members’ Experience in the ICU. Leader: E Azoulay. Team budget: 547k€.
+ -   *2022-2026*: **WP Leader of data analysis** for RHU FAME: Improving FAMily members’ Experience in the ICU. Leader: E Azoulay. Team budget: 547k€.
 
- -   *2020-2024*:  **[Artificial Intelligence (AI) Chair](https://anr.fr/Projet-ANR-19-CHIA-0010)**. Big2small, Transfer Learning from Big Data to Small Data: Leveraging Psychiatric Neuroimaging Biomarkers Discovery. Budget: 543k€.
+ -   *2020-2024*:  **Leader of [Artificial Intelligence (AI) Chair](https://anr.fr/Projet-ANR-19-CHIA-0010)**. Big2small, Transfer Learning from Big Data to Small Data: Leveraging Psychiatric Neuroimaging Biomarkers Discovery. Budget: 543k€.
 
- -   *2019-2026*:  **Leader of data analysis WP** for [RHU-PsyCARE](http://psy-care.fr). Preventing psychosis through personalized care. PI: MO Krebs. Team budget: 715k€.
+ -   *2019-2026*:  **WP leader of data analysis** for [RHU-PsyCARE](http://psy-care.fr). Preventing psychosis through personalized care. PI: MO Krebs. Team budget: 715k€.
  
--   *2018-2023*: **Leader of data analysis, computing and management WP** for H2020 horizon europe [R-LiNK](https://rlink.eu.com/). Optimizing response to Li treatment through personalized evaluation of individuals with bipolar I disorder. Leader: F Bellivier.  Team budget: 800k€.
+ -   *2018-2023*: **WP leader of data analysis, computing and management** for H2020 horizon europe [R-LiNK](https://rlink.eu.com/). Optimizing response to Li treatment through personalized evaluation of individuals with bipolar I disorder. Leader: F Bellivier.  Team budget: 800k€.
 
--   2014-2018: BIP-Li7 (ANR-14-CE15-0003). Therapeutic Lithium response
-    in Bipolar Disorders and brain Lithium-7 NMR Spectroscopy Imaging at
-    7 Tesla. PI: F Bellivier, WP leader:F Boumezbeur. Team budget:
-    280k€.
+ -   2014-2018: BIP-Li7 (ANR-14-CE15-0003). Therapeutic Lithium response Bipolar Disorders and brain Lithium-7 NMR Spectroscopy Imaging at 7 Tesla. PI: F Bellivier, WP leader:F Boumezbeur. Team budget: 280k€.
 
--   *2011-2015*: **Co-leader of data analysis WP** for EU FP6-ERA-NET-NEURON MESCOG: Mechanisms of
-    Small Vessel-Related Brain Damage and Cognitive Impairment:
-    Integrating Imaging Findings from Genetic and Sporadic Disease. PI: M Dichgans. Team budget: 195k€.
+ -   *2011-2015*: **WP leader of data analysis** for EU FP6-ERA-NET-NEURON MESCOG: Mechanisms of Small Vessel-Related Brain Damage and Cognitive Impairment: Integrating Imaging Findings from Genetic and Sporadic Disease. PI: M Dichgans. Team budget: 195k€.
 
--   *2012-2016*: **Leader of image analysis WP** for BRAINOMICS (ANR-10-BINF-04). Methodological and software solutions for the integration of neuroimaging and genomic data. PI: V Frouin. Team budget: 800k€.
+ -   *2012-2016*: **WP leader of image analysis** for BRAINOMICS (ANR-10-BINF-04). Methodological and software solutions for the integration of neuroimaging and genomic data. PI: V Frouin. Team budget: 800k€.
 
--   *2010-2013*:  **Leader** (with A Roche) of Karamétria (ANR-09-BLAN-0332): A unified framework for
+ -   *2010-2013*:  **Leader** (with A Roche) of Karamétria (ANR-09-BLAN-0332): A unified framework for
     feature-based morphometry of the brain. Team budget: 200k€.
 
--   *2007-2010*: **Leader of data analysis WP** for AGIR (ANR-07-NEUR-0001): AGIR -- Autism: Genetic and
+ -   *2007-2010*: **WP leader of data analysis** for AGIR (ANR-07-NEUR-0001): AGIR -- Autism: Genetic and
     Imaging Research. PI: M. Zilbovicius. Team budget: 150k€.
 
--   *2007-Present*: Contribution to the CATI platform, a
-    national platform created by the French Alzheimer plan in 2011 to
-    support multicenter neuroimaging studies (9M€ grant). Leader: JF Mangin.
+ -   *2007-Present*: Contribution to the CATI platform, a national platform created by the French Alzheimer plan in 2011 to support multicenter neuroimaging studies (9M€ grant). Leader: JF Mangin.
 
 
 ## Publications & Scientific Impact
