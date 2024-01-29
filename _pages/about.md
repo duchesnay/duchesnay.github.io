@@ -33,14 +33,6 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
 - *1997-1998*: **Master’s degree** in [Signal/Image Processing](https://formations.univ-rennes1.fr/formation/master-electronique-energie-electrique-automatique/master-mention-electronique-energie-0?studentstatus=113). [Rennes 1 University](https://english.univ-rennes1.fr), France.
 - *1994-1997*: **Master’s degree** in Software Engineering. École Pour l’Informatique et les Techniques Avancées ([EPITA](http://www.epita.fr/international/)), Kremlin Bicêtre, France.
 
-## Bio (IEEE style)
-
-Edouard Duchesnay is a research director in data science at NeuroSpin, CEA, Paris-Saclay University, France. 
-Since 2003, he has been designing machine learning models to discover brain imaging signatures of mental disorders.
-He explored dimension reduction and regularization strategies to overcome the “curse of dimensionality” caused by many neuroimaging measurements. 
-In 2019, he obtained a chair in Artificial Intelligence to develop transfer learning algorithms to bridge the gap between big (heterogeneous) and small (homogeneous) datasets.
-He received his Ph.D. in signal and image processing in 2001 and M.S. in 1998 from Rennes 1 University (France). In 1997, he obtained his M.S. degree in software engineering from École Pour l’Informatique et les Techniques Avancées (France).
-
 ## Projects
 
  -   *2024-2029*:  **Work Package (WP) Leader of data analysis, computing and data management** for [IHU-ICE](https://www.aphp.fr/contenu/linstitut-robert-debre-du-cerveau-de-lenfant-un-institut-hospitalo-universitaire-ihu-pour): Institut Hospitalo-Universitaire-Institut du Cerveau de l'Enfant Robert Debré. Leaders: R Delorme, G Dehaene, T Bourgeron.
@@ -136,7 +128,7 @@ I deliver lectures on machine learning/statistics in:
 - *2013-2015*: Tommy Lofstedt, Post-doc. T. Lofstedt is now associate professor at Umea University, Sweden.
 
 ### Engineers
-
+-   *2023-now*: Raphael Vock together with Antoine Grigis.
 -   *2022-now*: Bérangère Dollé together with Antoine Grigis.
 -   *2021-now*: Loic Dorval together with Antoine Grigis.
 -   *2019-2022*: Julie Victor together with Antoine Grigis.
@@ -149,3 +141,11 @@ I deliver lectures on machine learning/statistics in:
 [PCT/FR2010/050431](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2010103248):
 Inventors: **Duchesnay, Edouard**; Paillere, Marie-Laure; Cachia,
 Arnaud; Martinot, Jean-Luc; Artiges, Eric. ”Method for Developing an Information Prediction Device, Use Thereof, and Corresponding Storage Medium and Apparatus“.
+
+## Bio (IEEE style)
+
+Edouard Duchesnay is a research director in data science at NeuroSpin, CEA, Paris-Saclay University, France. 
+Since 2003, he has been designing machine learning models to discover brain imaging signatures of mental disorders.
+He explored dimension reduction and regularization strategies to overcome the “curse of dimensionality” caused by many neuroimaging measurements. 
+In 2019, he obtained a chair in Artificial Intelligence to develop transfer learning algorithms to bridge the gap between big (heterogeneous) and small (homogeneous) datasets.
+He received his Ph.D. in signal and image processing in 2001 and M.S. in 1998 from Rennes 1 University (France). In 1997, he obtained his M.S. degree in software engineering from École Pour l’Informatique et les Techniques Avancées (France).
