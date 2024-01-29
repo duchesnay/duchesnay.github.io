@@ -73,7 +73,7 @@ author_profile: true
 
 ## Conferences
 
-- B. Dufumier, C. A. Barbano, R. Louiset, **E. Duchesnay**, and P. Gori (2023) "Rethinking Positive Sampling for Contrastive Learning with Kernel", in ICLR 2023
+- B. Dufumier, C. A. Barbano, R. Louiset, **E. Duchesnay**, and P. Gori (2023) "Rethinking Positive Sampling for Contrastive Learning with Kernel", in International Conference on Learning Representations (ICLR) 2023
 - C. A. Barbano, B. Dufumier, **E. Duchesnay**, M. Grangetto, and P. Gori (2023) "Contrastive learning for regression in multi-site brain age prediction", in IEEE International Symposium on Biomedical Imaging (ISBI) 2023
 - C. Ambroise, A. Grigis, **E. Duchesnay**, and V. Frouin (2023) "Multi-View Variational Autoencoders Allow for Interpretability Leveraging Digital Avatars: Application to the HBN Cohort", in IEEE 20th International Symposium on Biomedical Imaging (ISBI) 2023
 - R. Louiset, P. Gori, B. Dufumier, J. Houenou, A. Grigis, and **E. Duchesnay** (2022) "UCSL : A Machine Learning Expectation-Maximization framework for Unsupervised Clustering driven by Supervised Learning", in ECML/PKDD
