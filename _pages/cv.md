@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Curriculum Vitae in pdf](https://raw.github.com/duchesnay/data/master/pdf/EdouardDuchesnayCV.pdf)
+
+[Curriculum Vitae in pdf](https://raw.github.com/duchesnay/duchesnay.github.io/master/files/EdouardDuchesnayCV.pdf)
 
 ## Experience
 
