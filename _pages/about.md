@@ -35,15 +35,15 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
 
 ## Projects
 
- -   *2024-2029*:  **Work Package (WP) Leader of data analysis, computing and data management** for [IHU-ICE](https://www.aphp.fr/contenu/linstitut-robert-debre-du-cerveau-de-lenfant-un-institut-hospitalo-universitaire-ihu-pour): Institut Hospitalo-Universitaire-Institut du Cerveau de l'Enfant Robert Debré. Leaders: R Delorme, G Dehaene, T Bourgeron.
+ -   *2024-2029*:  **Data analysis, computing and data management** for [IHU-ICE](https://www.aphp.fr/contenu/linstitut-robert-debre-du-cerveau-de-lenfant-un-institut-hospitalo-universitaire-ihu-pour): Institut Hospitalo-Universitaire-Institut du Cerveau de l'Enfant Robert Debré. Leaders: R Delorme, G Dehaene, T Bourgeron.
    
- -   *2023-2028*: **WP Leader of data analysis, large-scale computing and management** for (PEPR Santé Mentale) [PROPSY](https://www.cnrs.fr/en/pepr/pepr-exploratoire-propsy-pathologies-psychiatriques): PROgram-project in Precision pSYchiatry. Leader: M Leboyer. Team budget: 4.6M€.
+ -   *2023-2028*: **Data analysis, large-scale computing and management** for (PEPR Santé Mentale) [PROPSY](https://www.cnrs.fr/en/pepr/pepr-exploratoire-propsy-pathologies-psychiatriques): PROgram-project in Precision pSYchiatry. Leader: M Leboyer. Team budget: 4.6M€.
 
- -   *2022-2026*: **WP Leader of data analysis** for RHU FAME: Improving FAMily members’ Experience in the ICU. Leader: E Azoulay. Team budget: 547k€.
+ -   *2022-2026*: **Data analysis** for RHU FAME: Improving FAMily members’ Experience in the ICU. Leader: E Azoulay. Team budget: 547k€.
 
  -   *2020-2024*:  **Leader of [Artificial Intelligence (AI) Chair](https://anr.fr/Projet-ANR-19-CHIA-0010)**. Big2small, Transfer Learning from Big Data to Small Data: Leveraging Psychiatric Neuroimaging Biomarkers Discovery. Budget: 543k€.
 
- -   *2019-2026*:  **WP leader of data analysis** for [RHU-PsyCARE](http://psy-care.fr). Preventing psychosis through personalized care. PI: MO Krebs. Team budget: 715k€.
+ -   *2019-2026*:  **Data analysis** for [RHU-PsyCARE](http://psy-care.fr). Preventing psychosis through personalized care. PI: MO Krebs. Team budget: 715k€.
  
  -   *2018-2023*: **WP leader of data analysis, computing and management** for H2020 horizon europe [R-LiNK](https://rlink.eu.com/). Optimizing response to Li treatment through personalized evaluation of individuals with bipolar I disorder. Leader: F Bellivier.  Team budget: 800k€.
 
