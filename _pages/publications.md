@@ -73,10 +73,12 @@ author_profile: true
 
 ## Conferences
 
+- R. Louiset, P. Gori, B. Dufumier, A. Grigis, and **E. Duchesnay** (2024) "SepCLR: Separating common from salient patterns with Contrastive Representation Learning", in The Twelfth International Conference on Learning Representations (ICLR) 2024
+- R. Louiset, **E. Duchesnay**, A. Grigis, B. Dufumier, and P. Gori (2023) "SepVAE: a contrastive VAE to separate pathological patterns from healthy ones", presented at the Workshop on Interpretable ML in Healthcare at International Conference on Machine Learning (ICML 2023)
 - B. Dufumier, C. A. Barbano, R. Louiset, **E. Duchesnay**, and P. Gori (2023) "Rethinking Positive Sampling for Contrastive Learning with Kernel", in International Conference on Learning Representations (ICLR) 2023
 - C. A. Barbano, B. Dufumier, **E. Duchesnay**, M. Grangetto, and P. Gori (2023) "Contrastive learning for regression in multi-site brain age prediction", in IEEE International Symposium on Biomedical Imaging (ISBI) 2023
 - C. Ambroise, A. Grigis, **E. Duchesnay**, and V. Frouin (2023) "Multi-View Variational Autoencoders Allow for Interpretability Leveraging Digital Avatars: Application to the HBN Cohort", in IEEE 20th International Symposium on Biomedical Imaging (ISBI) 2023
-- R. Louiset, P. Gori, B. Dufumier, J. Houenou, A. Grigis, and **E. Duchesnay** (2022) "UCSL : A Machine Learning Expectation-Maximization framework for Unsupervised Clustering driven by Supervised Learning", in ECML/PKDD
+- R. Louiset, P. Gori, B. Dufumier, J. Houenou, A. Grigis, and **E. Duchesnay** (2022) "UCSL : A Machine Learning Expectation-Maximization framework for Unsupervised Clustering driven by Supervised Learning", in Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML/PKDD 2021)
 - B. Dufumier, P. Gori, J. Victor, A. Grigis, M. Wessa, P. Brambilla, P. Favre, M. Polosan, C. McDonald, C. M. Piguet, and **E. Duchesnay** (2021) "Contrastive Learning with Continuous Proxy Meta-Data for 3D MRI Classification", in MICCAI (2021)
 - B. Dufumier, P. Gori, J. Victor, A. Grigis, and **E. Duchesnay** (2022) "Conditional Alignment and Uniformity for Contrastive Learning with Continuous Proxy Labels", presented at the Med-NeurIPS - Workshop NeurIPS
 - A. de Pierrefeu, T. Lofstedt, C. Laidi, F. Hadj-Selem, M. Leboyer, P. Ciuciu, J. Houenou, and **E. Duchesnay** (2018) "Interpretable and stable prediction of schizophrenia on a large multisite dataset using machine learning with structured sparsity", in 2018 International Workshop on Pattern Recognition in Neuroimaging (PRNI)
