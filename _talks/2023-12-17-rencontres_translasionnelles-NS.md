@@ -13,6 +13,7 @@ location: "NeuroSpin, Paris-Saclay, France"
 
 INTRODUCTION
 - Artificial intelligence + Neuroimaging for mental disorders
+
 APPLICATIONS
 - Prognosis of clinical evolution or response to treatment
 
