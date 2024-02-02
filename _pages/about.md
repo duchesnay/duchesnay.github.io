@@ -80,7 +80,7 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
 
 ### Selection of Publications
 
-- R. Louiset, P. Gori, B. Dufumier, A. Grigis, and **E. Duchesnay** (2024) "SepCLR: Separating common from salient patterns with Contrastive Representation Learning", in The Twelfth International Conference on Learning Representations (ICLR) 2024
+- R. Louiset, **E. Duchesnay**, B. Dufumier, A. Grigis, and P. Gori (2024) "SepCLR: Separating common from salient patterns with Contrastive Representation Learning", in The Twelfth International Conference on Learning Representations (ICLR) 2024
 - B. Dufumier, C. A. Barbano, R. Louiset, **E. Duchesnay**, and P. Gori (2024) "Integrating Prior Knowledge in Contrastive Learning with Kernel", in 40th International Conference on Machine Learning (ICML) 2023
 - A. Iftimovici, J. Bourgin, J. Houenou, O. Gay, A. Grigis, J. Victor, B. Chaumette, M.-O. Krebs, **E. Duchesnay**, and ICAAR-plus Study Group. (2023) "Asynchronous neural maturation predicts transition to psychosis", Psychiatry Clin Neurosci
 - B. Dufumier, A. Grigis, J. Victor, C. Ambroise, V. Frouin, and **E. Duchesnay** (2022) "OpenBHB: a Large-Scale Multi-Site Brain MRI Data-set for Age Prediction and Debiasing", NeuroImage
@@ -110,30 +110,30 @@ I deliver lectures on machine learning/statistics in:
 
 ### Ph.D.s
 
-- *2022-now*: Thibault Dupont together with Elie Azoulay.
-- *2022-now*: Sara Petiton together with Antoine Grigis.
-- *2022-now*: Pierre Auriau together with Pietro Gori, Antoine Grigis and Jean-François Mangin.
-- *2020-now*: Robin Louiset together with Pietro Gori and Antoine Grigis.
-- *2019-2022*: Benoit Dufumier, together with Arthur Tenenhaus, Pietro Gori and Antoine Grigis.
-- *2019-2021*: Anton Iftimovici, together with Marie-Odile Krebs.
-- *2016-2019*: Amicie de Pierrefeu, together with Philippe Ciuciu.
-- *2008-2012*: Edith Lefloch is now a research scientist at CEA, CNRGH Evry, France.
+- *2022-now*: Thibault Dupont, co-supervised with with Elie Azoulay.
+- *2022-now*: Sara Petiton, co-supervised with Antoine Grigis.
+- *2022-now*: Pierre Auriau, co-supervised withPietro Gori, Antoine Grigis and Jean-François Mangin.
+- *2020-now*: Robin Louiset, co-supervised withPietro Gori and Antoine Grigis.
+- *2019-2022*: Benoit Dufumier, co-supervised with Arthur Tenenhaus, Pietro Gori and Antoine Grigis. Now post-doc at EPFL.
+- *2019-2021*: Anton Iftimovici, co-supervised with Marie-Odile Krebs.
+- *2016-2019*: Amicie de Pierrefeu, co-supervised with Philippe Ciuciu.
+- *2008-2012*: Edith Lefloch, co-supervised with V Frouin. Now a research scientist at CEA, CNRGH Evry, France.
 - *2009-2011*: Cecilia Damon together with JB Poline.
 
 
 ### Post-docs
 
-- *2017-2019*: Pauline Favre, Post-doc, together with JF Mangin and J. Houenou.
-- *2016*: Pietro Gori, Post-doc together with JF Mangin and J. Houenou. P. Gori is now Assistant Professor at Télécom ParisTech, Paris, France.
-- *2013-2015* Fouad Hadj Selem, Post-doc, F. Hadj Selem is now research scientist at the Energy Transition Institute: VeDeCoM, France.
-- *2013-2015*: Tommy Lofstedt, Post-doc. T. Lofstedt is now associate professor at Umea University, Sweden.
+- *2017-2019*: Pauline Favre, Post-doc, co-supervised with JF Mangin and J. Houenou.
+- *2016*: Pietro Gori, Post-doc together with JF Mangin and J. Houenou. Now Assistant Professor at Télécom ParisTech, Paris, France.
+- *2013-2015* Fouad Hadj Selem, Post-doc. Now research scientist at the Energy Transition Institute: VeDeCoM, France.
+- *2013-2015*: Tommy Lofstedt, Post-doc. Now associate professor at Umea University, Sweden.
+- *2013-2014*: Mathieu Dubois, Post-doc.
 
 ### Engineers
--   *2023-now*: Raphael Vock together with Antoine Grigis.
--   *2022-now*: Bérangère Dollé together with Antoine Grigis.
--   *2021-now*: Loic Dorval together with Antoine Grigis.
--   *2019-2022*: Julie Victor together with Antoine Grigis.
--   *2013-2014*: Mathieu Dubois, Post-doc.
+-   *2023-now*: Raphael Vock, co-supervised with Antoine Grigis.
+-   *2022-now*: Bérangère Dollé, co-supervised with Antoine Grigis.
+-   *2021-now*: Loic Dorval, co-supervised with Antoine Grigis.
+-   *2019-2022*: Julie Victor, co-supervised with Antoine Grigis.
 -   *2014*: Clémence Pinaud, Engineer trainee.
 -   *2013-2014*: Jinpeng Li, Research Engineer.
 
