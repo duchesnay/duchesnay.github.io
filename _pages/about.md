@@ -81,7 +81,7 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
 ### Selection of Publications
 
 - R. Louiset, P. Gori, B. Dufumier, A. Grigis, and **E. Duchesnay** (2024) "SepCLR: Separating common from salient patterns with Contrastive Representation Learning", in The Twelfth International Conference on Learning Representations (ICLR) 2024
-- B. Dufumier, C. A. Barbano, R. Louiset, **E. Duchesnay**, and P. Gori (2023) "Rethinking Positive Sampling for Contrastive Learning with Kernel", in International Conference on Learning Representations (ICLR) 2023
+- B. Dufumier, C. A. Barbano, R. Louiset, **E. Duchesnay**, and P. Gori (2024) "Integrating Prior Knowledge in Contrastive Learning with Kernel", in 40th International Conference on Machine Learning (ICML) 2023
 - A. Iftimovici, J. Bourgin, J. Houenou, O. Gay, A. Grigis, J. Victor, B. Chaumette, M.-O. Krebs, **E. Duchesnay**, and ICAAR-plus Study Group. (2023) "Asynchronous neural maturation predicts transition to psychosis", Psychiatry Clin Neurosci
 - B. Dufumier, A. Grigis, J. Victor, C. Ambroise, V. Frouin, and **E. Duchesnay** (2022) "OpenBHB: a Large-Scale Multi-Site Brain MRI Data-set for Age Prediction and Debiasing", NeuroImage
 - J. Stout, F. Hozer, A. Coste, F. Mauconduit, N. Djebrani-Oussedik, S. Sarrazin, J. Poupon, M. Meyrel, S. Romanzetti, B. Etain, C. Rabrait-Lerman, J. Houenou, F. Bellivier, **E. Duchesnay**, and F. Boumezbeur (2020) "Accumulation of Lithium in the Hippocampus of Patients With Bipolar Disorder: A Lithium-7 Magnetic Resonance Imaging Study at 7 Tesla", Biol Psychiatry
