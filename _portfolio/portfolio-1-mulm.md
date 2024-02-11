@@ -1,6 +1,5 @@
 ---
 title: "Univariate statistics & Residualization"
-excerpt: "Massive univariate linear model (MULM) & Residualization<br/><img src='/images/brain_stat_map.png'>"
 collection: portfolio
 ---
 
