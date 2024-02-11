@@ -88,7 +88,7 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
 - F. Hadj-Selem, T. Löfstedt, E. Dohmatob, V. Frouin, M. Dubois, V. Guillemot, and **E. Duchesnay** (2018) "Continuation of Nesterov’s Smoothing for Regression With Structured Sparsity in High-Dimensional Neuroimaging", IEEE Transactions on Medical Imaging
 - A. de Pierrefeu, T. Lofstedt, F. Hadj-Selem, M. Dubois, R. Jardri, T. Fovet, P. Ciuciu, V. Frouin, and **E. Duchesnay** (2017) "Structured Sparse Principal Components Analysis With the TV-Elastic Net Penalty", IEEE Transactions on Medical Imaging
 - A. de Pierrefeu, T. Fovet, F. Hadj-Selem, T. Löfstedt, P. Ciuciu, S. Lefebvre, P. Thomas, R. Lopes, R. Jardri, and **E. Duchesnay** (2018) "Prediction of activation patterns preceding hallucinations in patients with schizophrenia using machine learning with structured sparsity", Hum. Brain Mapp.
-- F. Pedregosa, G. Varoquaux, A. Gramfort, V. Michel, B. Thirion, O. Grisel, M. Blondel, P. Prettenhofer, R. Weiss, V. Dubourg, J. Vanderplas, A. Passos, D. Cournapeau, M. Brucher, M. Perrot, et al. (2012) "Scikit-learn: Machine Learning in Python", JMLR
+- F. Pedregosa, G. Varoquaux, A. Gramfort, V. Michel, B. Thirion, O. Grisel, M. Blondel, P. Prettenhofer, R. Weiss, V. Dubourg, J. Vanderplas, A. Passos, D. Cournapeau, M. Brucher, M. Perrot, and **E. Duchesnay** (2012) "Scikit-learn: Machine Learning in Python", JMLR
 
 
 ## Teaching
