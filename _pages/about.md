@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Edouard Duchesnay - Machine Learning, Neuroimaging"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
