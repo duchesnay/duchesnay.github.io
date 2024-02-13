@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Machine Learning / Neuroimaging / Psychiatry"
+title                    : "AI, Neuroimaging & Psychiatry"
 title_separator          : "-"
 name                     : &name "Edouard Duchesnay"
 description              : &description "Perso/Pro. homepage."
