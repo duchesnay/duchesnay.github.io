@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Machine Learning in Neuroimaging"
+title: "AI, Machine Learning, Neuroimaging and Psychiatry"
 author_profile: true
 redirect_from: 
   - /about/
