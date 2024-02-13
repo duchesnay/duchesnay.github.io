@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Edouard Duchesnay - Machine Learning, Neuroimaging"
+title: "Machine Learning in Neuroimaging"
 author_profile: true
 redirect_from: 
   - /about/
