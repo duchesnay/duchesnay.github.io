@@ -110,20 +110,20 @@ I deliver lectures on machine learning/statistics in:
 
 ### Ph.D.s
 
-- *2022-now*: Thibault Dupont, co-supervised with with Elie Azoulay.
+- *2022-now*: Thibault Dupont, co-supervised with Elie Azoulay and Julie Bourgin.
 - *2022-now*: Sara Petiton, co-supervised with Antoine Grigis.
-- *2022-now*: Pierre Auriau, co-supervised withPietro Gori, Antoine Grigis and Jean-François Mangin.
-- *2020-now*: Robin Louiset, co-supervised withPietro Gori and Antoine Grigis.
-- *2019-2022*: Benoit Dufumier, co-supervised with Arthur Tenenhaus, Pietro Gori and Antoine Grigis. Now post-doc at EPFL.
+- *2022-now*: Pierre Auriau, co-supervised with Pietro Gori, Antoine Grigis and Jean-François Mangin.
+- *2020-now*: Robin Louiset, co-supervised with Pietro Gori and Antoine Grigis.
+- *2019-2022*: Benoit Dufumier, co-supervised with Arthur Tenenhaus, Pietro Gori and Antoine Grigis.
 - *2019-2021*: Anton Iftimovici, co-supervised with Marie-Odile Krebs.
 - *2016-2019*: Amicie de Pierrefeu, co-supervised with Philippe Ciuciu.
-- *2008-2012*: Edith Lefloch, co-supervised with V Frouin. Now a research scientist at CEA, CNRGH Evry, France.
-- *2009-2011*: Cecilia Damon together with JB Poline.
+- *2008-2012*: Edith Lefloch, co-supervised with Vincent Frouin.
+- *2009-2011*: Cecilia Damon together with Jean-Baptiste Poline.
 
 
 ### Post-docs
 
-- *2017-2019*: Pauline Favre, Post-doc, co-supervised with JF Mangin and J. Houenou.
+- *2017-2019*: Pauline Favre, Post-doc, co-supervised with JF Mangin and J. Houenou. Now researcher at INSERM U955, team Translational Neuro-Psychiatry.
 - *2016*: Pietro Gori, Post-doc together with JF Mangin and J. Houenou. Now Assistant Professor at Télécom ParisTech, Paris, France.
 - *2013-2015* Fouad Hadj Selem, Post-doc. Now research scientist at the Energy Transition Institute: VeDeCoM, France.
 - *2013-2015*: Tommy Lofstedt, Post-doc. Now associate professor at Umea University, Sweden.
