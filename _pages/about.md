@@ -66,9 +66,9 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
 
 ### Bibliometry
 
-- Publications: 94(a), 131(b)
-- Total Number of Citations: 38,291(a), 86,070(b)
-- H-Index: 26(a), 34(b)
+- Publications: 131(a), 93(b)
+- Total Number of Citations: 95,150(a) 42,237(b)
+- H-Index: 36(a), 26(b)
 
 (a) [Web of Science](https://www.webofscience.com/wos/author/record/2030378), (b) [Google scholar](https://scholar.google.fr/citations?user=mG6V3q4AAAAJ&hl=fr)
 
