@@ -18,8 +18,9 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
 
 ## Experience
 
-- *2021-now*: **Research Director** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Université Paris-Saclay, France.
-- *2008-2021*: **Research Scientist** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Université Paris-Saclay, France.
+- *2024-now*: **Head of Laboratory** [GAIA](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin/BAOBAB/GAIA.aspx) at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
+- *2021-now*: **Research Director** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
+- *2008-2021*: **Research Scientist** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
 - *2005-2008*: **R&D Engineer** in the [INSERM Research Unit -"Neuroimaging and Psychiatry"](http://www.inserm-u1000.u-psud.fr), Orsay, France.
 - *2003-2004*: **Postdoctoral** position at CEA, Orsay, France.
 - *2002*: **Software Engineer** at MBD.A (Matra BAe Dynamics) Velizy, contract for ASTEK company, France.
@@ -65,9 +66,9 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
 
 ### Bibliometry
 
-- Publications: 94(a), 131(b)
-- Total Number of Citations: 38,291(a), 86,070(b)
-- H-Index: 26(a), 34(b)
+- Publications: 131(a), 93(b)
+- Total Number of Citations: 95,150(a) 42,237(b)
+- H-Index: 36(a), 26(b)
 
 (a) [Web of Science](https://www.webofscience.com/wos/author/record/2030378), (b) [Google scholar](https://scholar.google.fr/citations?user=mG6V3q4AAAAJ&hl=fr)
 
