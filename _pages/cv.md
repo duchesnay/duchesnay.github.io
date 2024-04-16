@@ -13,6 +13,7 @@ redirect_from:
 
 ## Experience
 
+- *2024-now*: **Head of Laboratory** [GAIA](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin/BAOBAB/GAIA.aspx) at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Université Paris-Saclay, France.
 - *2021-now*: **Research Director** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Université Paris-Saclay, France.
 - *2008-2021*: **Research Scientist** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Université Paris-Saclay, France.
 - *2005-2008*: **R&D Engineer** in the [INSERM Research Unit -"Neuroimaging and Psychiatry"](http://www.inserm-u1000.u-psud.fr), Orsay, France.
