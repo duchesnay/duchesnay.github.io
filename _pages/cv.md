@@ -23,7 +23,7 @@ redirect_from:
 
 ## Education
 
-- *2020*: **Habilitation** (for full professorship) in machine learning applied to neuroimaging ([pdf](https://raw.github.com/duchesnay/data/master/pdf/hdr_educhesnay.pdf)). [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
+- *2020*: **[Habilitation](https://en.wikipedia.org/wiki/Habilitation)** (for full professorship) in machine learning applied to neuroimaging ([pdf](https://raw.github.com/duchesnay/data/master/pdf/hdr_educhesnay.pdf)). [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
 - *1999-2001*: **Ph.D.** in Image Processing at [LTSI](http://www.ltsi.univ-rennes1.fr/?q=en/node/269) (laboratory of signal and image processing). [Rennes 1 University](https://english.univ-rennes1.fr), France.
 - *1997-1998*: **Master’s degree** in [Signal/Image Processing](https://formations.univ-rennes1.fr/formation/master-electronique-energie-electrique-automatique/master-mention-electronique-energie-0?studentstatus=113). [Rennes 1 University](https://english.univ-rennes1.fr), France.
 - *1994-1997*: **Master’s degree** in Software Engineering. École Pour l’Informatique et les Techniques Avancées ([EPITA](http://www.epita.fr/international/)), Kremlin Bicêtre, France.
