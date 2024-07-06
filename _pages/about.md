@@ -17,10 +17,10 @@ As a leader of the team “Signatures of brain disorders” at NeuroSpin, CEA, U
 Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimaging -- Scientific Computing  -- Datamanagement
 
 ## Experience
-
-- *2024-now*: **Head of Laboratory** [GAIA](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin/BAOBAB/GAIA.aspx) at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
-- *2021-now*: **Research Director** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
-- *2008-2021*: **Research Scientist** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
+- *2008-now*: [GAIA](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin/BAOBAB/GAIA.aspx) Lab., [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx) dept., [CEA](http://www.cea.fr/english), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
+  - *2024-now*: **Head of [GAIA](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin/BAOBAB/GAIA.aspx) Laboratory**
+  - *2021-now*: **Research Director**
+  - *2008-2021*: **Research Scientist**
 - *2005-2008*: **R&D Engineer** in the [INSERM Research Unit -"Neuroimaging and Psychiatry"](http://www.inserm-u1000.u-psud.fr), Orsay, France.
 - *2003-2004*: **Postdoctoral** position at CEA, Orsay, France.
 - *2002*: **Software Engineer** at MBD.A (Matra BAe Dynamics) Velizy, contract for ASTEK company, France.
@@ -28,7 +28,7 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
 
 ## Education
 
-- *2020*: **Habilitation** (for full professorship) in machine learning applied to neuroimaging ([pdf](https://raw.github.com/duchesnay/data/master/pdf/hdr_educhesnay.pdf)). [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
+- *2020*: **[Habilitation](https://en.wikipedia.org/wiki/Habilitation)** (for full professorship) in machine learning applied to neuroimaging ([pdf](https://raw.github.com/duchesnay/data/master/pdf/hdr_educhesnay.pdf)). [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
 - *1999-2001*: **Ph.D.** in Image Processing at [LTSI](http://www.ltsi.univ-rennes1.fr/?q=en/node/269) (laboratory of signal and image processing). [Rennes 1 University](https://english.univ-rennes1.fr), France.
 - *1997-1998*: **Master’s degree** in [Signal/Image Processing](https://formations.univ-rennes1.fr/formation/master-electronique-energie-electrique-automatique/master-mention-electronique-energie-0?studentstatus=113). [Rennes 1 University](https://english.univ-rennes1.fr), France.
 - *1994-1997*: **Master’s degree** in Software Engineering. École Pour l’Informatique et les Techniques Avancées ([EPITA](http://www.epita.fr/international/)), Kremlin Bicêtre, France.
