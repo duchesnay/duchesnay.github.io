@@ -16,7 +16,7 @@ redirect_from:
 - *2008-now*: [GAIA](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin/BAOBAB/GAIA.aspx) Lab., [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx) dept., [CEA](http://www.cea.fr/english), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France
   - *2024*: **Head of [GAIA](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin/BAOBAB/GAIA.aspx) Laboratory**
   - *2021*: **Research Director**
-  - *2018*: **Leader of team [signature](https://neurospin.github.io/gaia/teams/gaia-signature.html)**
+  - *2018*: **Leader of team ["Signatures of brain disorders"](https://neurospin.github.io/gaia/teams/gaia-signature.html)**
   - *2008*: **Research Scientist**
 - *2005-2008*: **R&D Engineer** in the [INSERM Research Unit -"Neuroimaging and Psychiatry"](http://www.inserm-u1000.u-psud.fr), Orsay, France
 - *2003-2004*: **Postdoctoral** position at CEA, Orsay, France
