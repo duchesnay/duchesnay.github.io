@@ -18,7 +18,7 @@ redirect_from:
   - *2021*: **Research Director**
   - *2018*: **Leader of team ["Signatures of brain disorders"](https://neurospin.github.io/gaia/teams/gaia-signature.html)**
   - *2008*: **Research Scientist**
-- *2005-2008*: **R&D Engineer** in the [INSERM Research Unit -"Neuroimaging and Psychiatry"](http://www.inserm-u1000.u-psud.fr), Orsay, France
+- *2005-2008*: **R&D Engineer** in the [INSERM Research Unit -"Neuroimaging and Psychiatry"](https://www.inserm-u1000.universite-paris-saclay.fr/), Orsay, France
 - *2003-2004*: **Postdoctoral** position at CEA, Orsay, France
 - *2002*: **Software Engineer** at MBD.A (Matra BAe Dynamics) Velizy, contract for ASTEK company, France
 - *2001-2002*: **Teaching and Research Assistant** at [Rennes 1 University](https://english.univ-rennes1.fr), France
