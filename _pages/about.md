@@ -18,8 +18,9 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
 
 ## Experience
 
-- *2008-now*: [GAIA](https://neurospin.github.io/gaia/) Lab., [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx) dept., [CEA](http://www.cea.fr/english), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France
-  - *2024*: **Head of [GAIA](https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin/BAOBAB/GAIA.aspx) Laboratory**
+- *2024-now*: Adjunct Professor in Machine Learning, Paris-Saclay University, France
+- *2008-now*: [GAIA](https://neurospin.github.io/gaia) Lab., [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx) dept., [CEA](http://www.cea.fr/english), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France
+  - *2024*: **Head of [GAIA](https://neurospin.github.io/gaia) Laboratory**
   - *2021*: **Research Director**
   - *2018*: **Leader of team ["Signatures of brain disorders"](https://neurospin.github.io/gaia/teams/gaia-signature.html)**
   - *2008*: **Research Scientist**
