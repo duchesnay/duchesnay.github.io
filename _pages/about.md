@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Research Director, Prof. in Machine Learning, Head of [GAIA](https://neurospin.github.io/gaia/) Laboratory for brain imaging and data science at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en), France.
+Research Director, Prof. of Machine Learning, Head of [GAIA](https://neurospin.github.io/gaia/) Laboratory for brain imaging and data science at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en), France.
 
 As a leader of the team “Signatures of brain disorders” at NeuroSpin, CEA, Université Paris-Saclay, France, I supervise the design of machine learning and statistical models to uncover neural signatures predictive of clinical trajectories in psychiatric disorders. To unlock the access to data required by learning algorithms, I oversee the data management, calculation, and regulation (GDPR) of large-scale national and European initiatives.
 
@@ -18,7 +18,7 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
 
 ## Experience
 
-- *2024-now*: Adjunct Professor in Machine Learning, Paris-Saclay University, France
+- *2024-now*: 2024-now: Affiliated **Professor** of Machine Learning, Paris-Saclay University, France
 - *2008-now*: [GAIA](https://neurospin.github.io/gaia) Lab., [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx) dept., [CEA](http://www.cea.fr/english), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France
   - *2024*: **Head of [GAIA](https://neurospin.github.io/gaia) Laboratory**
   - *2021*: **Research Director**
