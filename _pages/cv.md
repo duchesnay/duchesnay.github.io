@@ -13,7 +13,7 @@ redirect_from:
 
 ## Experience
 
-- *2024-now*: Affiliated **Professor** in Machine Learning, Paris-Saclay University, France
+- *2024-now*: Affiliated **Professor** of Machine Learning, Paris-Saclay University, France
 - *2008-now*: [GAIA](https://neurospin.github.io/gaia) Lab., [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx) dept., [CEA](http://www.cea.fr/english), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France
   - *2024*: **Head of [GAIA](https://neurospin.github.io/gaia) Laboratory**
   - *2021*: **Research Director**
