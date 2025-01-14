@@ -13,7 +13,7 @@ redirect_from:
 
 ## Experience
 
-- *2024-now*: Adjunct Professor in Machine Learning, Paris-Saclay University, France
+- *2024-now*: Affiliated **Professor** in Machine Learning, Paris-Saclay University, France
 - *2008-now*: [GAIA](https://neurospin.github.io/gaia) Lab., [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx) dept., [CEA](http://www.cea.fr/english), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France
   - *2024*: **Head of [GAIA](https://neurospin.github.io/gaia) Laboratory**
   - *2021*: **Research Director**
@@ -33,9 +33,9 @@ redirect_from:
 
 ## Bio (IEEE style)
 
-Edouard Duchesnay is a research director in data science at NeuroSpin, CEA, Paris-Saclay University, France. 
-Since 2003, he has been designing machine learning models to discover brain imaging signatures of mental disorders.
-He explored dimension reduction and regularization strategies to overcome the “curse of dimensionality” caused by many neuroimaging measurements. 
-In 2019, he obtained a chair in Artificial Intelligence to develop transfer learning algorithms to bridge the gap between big (heterogeneous) and small (homogeneous) datasets.
-He received his Ph.D. in 2001 and M.S. in 1998 in signal and image processing from Rennes 1 University (France). In 1997, he received his M.S. degree in software engineering from École Pour l’Informatique et les Techniques Avancées (France).
+Edouard Duchesnay is a research director and affiliated Professor of Machine Learning at Paris-Saclay University, France. He leads the GAIA Laboratory at NeuroSpin, CEA, which is dedicated to brain imaging and data science.
+Since 2003, Duchesnay has been developing machine learning models to identify neural signatures predictive of clinical trajectories in psychiatric disorders. He explored dimension reduction and regularization strategies to address the challenges posed by high-dimensional neuroimaging data.
+In 2019, he was awarded a chair in Artificial Intelligence to advance deep transfer learning algorithms, aiming to bridge the gap between large heterogeneous datasets and smaller homogeneous ones.
+He received his PhD in signal and image processing (2001) and a Master's in Signal/Image Processing (1998) from Rennes 1 University, France. In 1997, he obtained a master's degree in software engineering from École Pour l'Informatique et les Techniques Avancées (France).
+
 
