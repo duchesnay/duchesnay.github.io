@@ -79,7 +79,7 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
 
 - [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate)
 - [Zotero](https://www.zotero.org/edouard.duchesnay)
-
+- [HAL](http:////cv.hal.science/edouard-duchesnay)
 
 ### Selection of Publications
 
