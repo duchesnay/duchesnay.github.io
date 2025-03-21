@@ -65,9 +65,11 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
  -   *2007-Present*: Contribution to the CATI platform, a national platform created by the French Alzheimer plan in 2011 to support multicenter neuroimaging studies (9M€ grant). Leader: JF Mangin.
 
 
-## [Publications]((https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=edouard-duchesnay&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css))
+## Publications and Scientific Impact
 
-## Bibliometry
+[Publications]((https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=edouard-duchesnay&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css))
+
+### Bibliometry
 
 - Publications: 131(a), 108(b)
 - Total Number of Citations: 11,4199(a) 57,511(b)
