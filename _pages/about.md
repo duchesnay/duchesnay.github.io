@@ -65,21 +65,16 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
  -   *2007-Present*: Contribution to the CATI platform, a national platform created by the French Alzheimer plan in 2011 to support multicenter neuroimaging studies (9M€ grant). Leader: JF Mangin.
 
 
-## Publications & Scientific Impact
+## [Publications]((https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=edouard-duchesnay&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css))
 
-### Bibliometry
+## Bibliometry
 
-- Publications: 131(a), 93(b)
-- Total Number of Citations: 95,150(a) 42,237(b)
-- H-Index: 36(a), 26(b)
+- Publications: 131(a), 108(b)
+- Total Number of Citations: 11,4199(a) 57,511(b)
+- H-Index: 37(a), 27(b)
 
-(a) [Web of Science](https://www.webofscience.com/wos/author/record/2030378), (b) [Google scholar](https://scholar.google.fr/citations?user=mG6V3q4AAAAJ&hl=fr)
+(a) [Google scholar](https://scholar.google.fr/citations?user=mG6V3q4AAAAJ&hl=fr), (b) [Web of Science](https://www.webofscience.com/wos/author/record/2030378)
 
-### Publications
-
-- [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate)
-- [Zotero](https://www.zotero.org/edouard.duchesnay)
-- [HAL](http:////cv.hal.science/edouard-duchesnay)
 
 ### Selection of Publications
 
