@@ -9,7 +9,7 @@ redirect_from:
 
 Research Director, Prof. of Machine Learning, Head of [GAIA](https://neurospin.github.io/gaia/) Laboratory for brain imaging and data science at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en), France.
 
-As a leader of the team “Signatures of brain disorders” at NeuroSpin, CEA, Université Paris-Saclay, France, I supervise the design of machine learning and statistical models to uncover neural signatures predictive of clinical trajectories in psychiatric disorders. To unlock the access to data required by learning algorithms, I oversee the data management, calculation, and regulation (GDPR) of large-scale national and European initiatives.
+As a leader of the team “Signatures of brain disorders” at NeuroSpin, CEA, Université Paris-Saclay, France, I supervise the design of machine learning and statistical models to uncover neural signatures predictive of clinical trajectories in psychiatric disorders. To unlock access to data required by learning algorithms, I oversee the data management, calculation, and regulation (GDPR) of large-scale national and European initiatives.
 
 
 ## Keywords
@@ -18,7 +18,7 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
 
 ## Experience
 
-- *2024-now*: 2024-now: Affiliated **Professor** of Machine Learning, Paris-Saclay University, France
+- *2024-now*: Affiliated **Professor** of Machine Learning, Paris-Saclay University, France
 - *2008-now*: [GAIA](https://neurospin.github.io/gaia) Lab., [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx) dept., [CEA](http://www.cea.fr/english), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France
   - *2024*: **Head of [GAIA](https://neurospin.github.io/gaia) Laboratory**
   - *2021*: **Research Director**
@@ -38,8 +38,8 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
 
 ## Projects
 
+ -   *2025-2029*:  **AI chair** (DATAIA-Cluster, Université Paris Saclay). Pre-trained Models for Data Frugality in Health. Budget: 360k€.
  -   *2024-2029*:  **Data analysis, computing and data management** for [IHU-ICE](https://www.aphp.fr/contenu/linstitut-robert-debre-du-cerveau-de-lenfant-un-institut-hospitalo-universitaire-ihu-pour): Institut Hospitalo-Universitaire-Institut du Cerveau de l'Enfant Robert Debré. Leaders: R Delorme, G Dehaene, T Bourgeron.
-   
  -   *2023-2028*: **Data analysis, large-scale computing and management** for (PEPR Santé Mentale) [PROPSY](https://www.cnrs.fr/en/pepr/pepr-exploratoire-propsy-pathologies-psychiatriques): PROgram-project in Precision pSYchiatry. Leader: M Leboyer. Team budget: 4.6M€.
 
  -   *2022-2026*: **Data analysis** for RHU FAME: Improving FAMily members’ Experience in the ICU. Leader: E Azoulay. Team budget: 547k€.
@@ -71,9 +71,9 @@ Machine Learning -- Deep Learning -- Statistics -- Computer Vision -- Neuroimagi
 
 ### Bibliometry
 
-- Publications: 131(a), 108(b)
-- Total Number of Citations: 11,4199(a) 57,511(b)
-- H-Index: 37(a), 27(b)
+- Publications: 131(a), 112(b)
+- Total Number of Citations: 124,639(a) 64,587(b)
+- H-Index: 38(a), 27(b)
 
 (a) [Google scholar](https://scholar.google.fr/citations?user=mG6V3q4AAAAJ&hl=fr), (b) [Web of Science](https://www.webofscience.com/wos/author/record/2030378)
 
@@ -110,10 +110,13 @@ I deliver lectures on machine learning/statistics in:
 
 ### Ph.D.s
 
+- *2024-now*: Raphael Vock, co-supervised with Antoine Grigis.
+- *2024-now*: Julie Chaudet, co-supervised with Aline Lefebvre.
+- *2023-now*: Julien Delages, co-supervised with Cathy Philippe.
 - *2022-now*: Thibault Dupont, co-supervised with Elie Azoulay and Julie Bourgin.
 - *2022-now*: Sara Petiton, co-supervised with Antoine Grigis.
-- *2022-now*: Pierre Auriau, co-supervised with Pietro Gori, Antoine Grigis and Jean-François Mangin.
-- *2020-now*: Robin Louiset, co-supervised with Pietro Gori and Antoine Grigis.
+- *2022-2025*: Pierre Auriau, co-supervised with Pietro Gori, Antoine Grigis and Jean-François Mangin.
+- *2020-2024*: Robin Louiset, co-supervised with Pietro Gori and Antoine Grigis.
 - *2019-2022*: Benoit Dufumier, co-supervised with Arthur Tenenhaus, Pietro Gori and Antoine Grigis.
 - *2019-2021*: Anton Iftimovici, co-supervised with Marie-Odile Krebs.
 - *2016-2019*: Amicie de Pierrefeu, co-supervised with Philippe Ciuciu.
@@ -130,9 +133,12 @@ I deliver lectures on machine learning/statistics in:
 - *2013-2014*: Mathieu Dubois, Post-doc.
 
 ### Engineers
--   *2023-now*: Raphael Vock, co-supervised with Antoine Grigis.
--   *2022-now*: Bérangère Dollé, co-supervised with Antoine Grigis.
--   *2021-now*: Loic Dorval, co-supervised with Antoine Grigis.
+
+-   *2025-now*: Jérémie Sadoine, co-supervised with Antoine Grigis.
+-   *2025-now*: Oneeb Nasir, co-supervised with Antoine Grigis.
+-   *2023-2024*: Raphael Vock, co-supervised with Antoine Grigis.
+-   *2022-2024*: Bérangère Dollé, co-supervised with Antoine Grigis.
+-   *2021-2024*: Loic Dorval, co-supervised with Antoine Grigis.
 -   *2019-2022*: Julie Victor, co-supervised with Antoine Grigis.
 -   *2014*: Clémence Pinaud, Engineer trainee.
 -   *2013-2014*: Jinpeng Li, Research Engineer.
